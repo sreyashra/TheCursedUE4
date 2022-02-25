@@ -1,1 +1,1 @@
-# TheCursedUE4
+# The Cursed UE4 project file
